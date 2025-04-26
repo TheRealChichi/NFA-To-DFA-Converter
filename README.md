@@ -18,7 +18,10 @@ Created by **Kevin Truong & Raymond Rapglia** for the course **MCS 5243 - Theory
 
 ## 🖥️ GUI Preview
 
-*(You can add a screenshot later here)*
+### ✍️ Example Input and Output
+Filled input with ε-transitions and corresponding DFA output:
+
+![Preview Application](https://github.com/user-attachments/assets/7e14350a-9063-43ea-bce4-35fc52fbb992)
 
 ---
 
